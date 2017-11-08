@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="popular">Popular</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="contentDescription">MoviePoster</string>
+    <string name="contentDescription1">GridPoster</string>
+    <string name="NetworkError">No Active Network Connection</string>
+    <string name="NetworkInavailable">Poor Or No network</string>
+    <string name="Api_Key_Value">"03ab797bfab05fba42dded41ea06fb91"</string>
+</resources>

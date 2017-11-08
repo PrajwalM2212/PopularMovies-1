@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="@string/popular"
+        android:orderInCategory="1"
+        android:id="@+id/popular"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="collapseActionView"/>
+
+
+    <item
+        android:title="@string/top_rated"
+        android:orderInCategory="2"
+        android:id="@+id/top_rated"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        app:showAsAction="collapseActionView"
+        />
+
+
+</menu>
